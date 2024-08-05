@@ -1,0 +1,48 @@
+*{
+    background-color: black;
+    color: white;
+}
+.Icon{
+    color:white;
+    margin-top: 5rem;
+    border: 1px solid black;
+    cursor: pointer;
+}
+.items{
+    display: flex;
+    flex-direction: column;
+}
+.carosuelImg{
+    height: 18rem;
+    width: 13rem;
+    border-radius: 0.3rem;
+    transition: 1s;
+}
+.carosuelImg:hover{
+    transform: scale(1.1);
+}
+.carosuelDiv{
+    height: 18rem;
+    width: 15rem;
+    cursor: pointer;
+}
+.carosuelMainDiv1{
+    margin: 2rem;
+}
+.movieTitle{
+    margin-top: 1.2rem;
+}
+.movieHeading{
+    font-family: 'Courier New', Courier, monospace;
+    margin-right: 69rem;
+    margin-bottom: 2rem;
+}
+.carosuelMainDiv2{
+    margin-top: 5rem;
+}
+.carosuelMainDiv3{
+    margin-top: 5rem;
+}
+.carosuelMainDiv4{
+    margin-top: 5rem;
+}
